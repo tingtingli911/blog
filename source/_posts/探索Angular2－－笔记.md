@@ -7,6 +7,11 @@ tags:
 categories: 前端开发	
 ---
 
+### 学习笔记
+
+1. 元数据：告诉Angular如何处理一个类，例如"@Component"装饰器后面的类被视作一个组件，传给装饰器的参数（配置项）就是元数据。它是用来指导Angular的行为的。
+
+
 ### 代码规范
 
 1. 所有service都添加@Injectable()
@@ -25,4 +30,4 @@ constructor(@Optional() private logger: Logger) {
 }
 {% endcodeblock %}
 
-2. sdf
+2. s
